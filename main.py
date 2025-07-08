@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-# 触发一下
 import os
 import requests
 import hashlib
